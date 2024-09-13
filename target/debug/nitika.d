@@ -1,1 +1,0 @@
-/Users/nozomu/nitika/target/debug/nitika: /Users/nozomu/nitika/migrations/2024-09-11-113641_create_rustac/down.sql /Users/nozomu/nitika/migrations/2024-09-11-113641_create_rustac/up.sql /Users/nozomu/nitika/src/auth.rs /Users/nozomu/nitika/src/main.rs /Users/nozomu/nitika/src/models.rs /Users/nozomu/nitika/src/repositories.rs /Users/nozomu/nitika/src/schema.rs
